@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(4, 68, 247);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: oblique;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transition: 1.9s;
+
+}
+
+body:hover{
+    background-color: white;
+    color: black;
+    transition: 1.3s;
+
+}
+
+.php_element{
+    margin: 30px;
+    font-style: normal;
+}
